@@ -1,2 +1,2 @@
 # ProjectO
-Force on best OFC game.
+Focus on the best OFC game.
